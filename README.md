@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Caruso! 👋
 
 - 🐝 pai da Madah
-- 👨‍🎓 recém formado Desenvolvedor Full Stack Java Junior pela Generation Brasil
-- 🕵️‍♂️ tecnólogo em Contabilidade pela Etec de Cotia e graduando em Administração pela Estácio de Sá
+- 👨‍🎓 recém formado <i>Desenvolvedor Full Stack Java Junior</i> pela <b>Generation Brasil</b>
+- 🕵️‍♂️ tecnólogo em <i>Contabilidade</i> pela Etec de Cotia e <i>graduando</i> em Administração pela Estácio de Sá
 - 📫 E-mail para contato: luisfernandocaruso95@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -29,6 +29,7 @@
   ##
   
   <div> 
+    <p>Conheça um pouco mais sobre mim acessando minhas redes sociais:</p>
   <a href="https://instagram.com/fernando_caruso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/heisenvodka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luisfernandocaruso95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
