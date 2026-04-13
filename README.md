@@ -1,10 +1,11 @@
 ### Olá! Eu sou o Caruso! 👋
 
 - 🐝 pai da Madah
-- 👨‍🎓 recém formado <i>Desenvolvedor Full Stack Java Junior</i> pela <b>Generation Brasil</b>
-- 🕵️‍♂️ tecnólogo em <i>Contabilidade</i> pela Etec de Cotia e <i>graduando</i> em Administração pela Estácio de Sá
+- 👨‍💼 Analista de Sistemas há 4 anos
+- 👨‍🎓 Formado <i>Desenvolvedor Full Stack Java Junior</i> pela <b>Generation Brasil</b>
+- 🕵️‍♂️ tecnólogo em <i>Contabilidade</i> pela Etec de Cotia e <i>Bacharel</i> em Administração pela FMU
+- 👨‍🎓 cursando Análise e Desenvolvimento de Sistemas pela PUC-PR (8 semestre)]
 - 📫 E-mail para contato: luisfernandocaruso95@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/fernandocaruso">
