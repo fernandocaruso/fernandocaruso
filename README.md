@@ -2,10 +2,9 @@
 
 - 🐝 pai da Madah
 - 👨‍💼 Analista de Sistemas há 4 anos
-- 👨‍🎓 Formado <i>Desenvolvedor Full Stack Java Junior</i> pela <b>Generation Brasil</b>
+- 👨‍🎓 Formado <i>Desenvolvedor Full Stack Java</i> pela <b>Generation Brasil</b> em 2021
 - 🕵️‍♂️ tecnólogo em <i>Contabilidade</i> pela Etec de Cotia e <i>Bacharel</i> em Administração pela FMU
 - 👨‍🎓 cursando Análise e Desenvolvimento de Sistemas pela PUC-PR (8 semestre)]
-- 📫 E-mail para contato: luisfernandocaruso95@gmail.com
 
 <div>
 
